@@ -1,5 +1,21 @@
-Narzêdzie tworzy bufor ortogonalny wokó³ obiektów punktowych.
+# Orthogonal Buffer
 
-Jest to skrzynka narzêdziowa ArcToolbox stworzona w wersji oprogramowania ArcGIS 10.3. Wykorzystano jêzyk programowania Python 2.7.
+## Description
+Tool calculates an orthogonal buffers around point objects.
 
-W repozytorium zawarte s¹ przyk³adowe pliki wejœciowe oraz wynikowe.
+Calculation factors:
+* distance,
+* azimuth.
+
+## Data source
+Vector layers are from [Geofabrik](http://download.geofabrik.de/).
+
+## Exemplary results
+Look for results in [/dane_wyniki](https://github.com/karomamczi/orthogonal-buffer/tree/master/dane_wyniki) directory.
+
+
+## Requirements
+ArcGIS for Desktop 10.x Advanced License
+
+## Author
+Karolina Mamczarz

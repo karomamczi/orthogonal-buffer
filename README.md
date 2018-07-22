@@ -1,7 +1,7 @@
 # Orthogonal Buffer
 
 ## Description
-Tool calculates an orthogonal buffers around point objects.
+Tool calculates orthogonal buffers around point objects.
 
 Calculation factors:
 * distance,
